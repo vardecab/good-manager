@@ -21,7 +21,7 @@ var examples = [
 
     '“One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.”<br><br><br><span class="who_said">~ Arnold H. Glasow</span>',
 
-    '“The fewer the facts, the stronger the opinion.”<br><br><br><span class="who_said">,~ Arnold H. Glasow</span>',
+    '“The fewer the facts, the stronger the opinion.”<br><br><br><span class="who_said">~ Arnold H. Glasow</span>',
 
     '“You don’t demand respect, you earn it.”<br><br><br><span class="who_said">~ Steve Sadler</span>',
 
