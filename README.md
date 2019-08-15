@@ -2,7 +2,7 @@
 
 **Good Manager** is a new-tab replacement extension for Chromium-based browsers (e.g. Google Chrome, [Vivaldi](https://vivaldi.com)) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from 5 categories.
 
-## Categories 
+## Categories
 
 - Behaviors,
 - What To Say,
