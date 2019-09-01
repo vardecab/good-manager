@@ -8,7 +8,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   text-align: center;
-  min-height: 100%; /* fix cut background on mobile */
+  height: 100vh; /* fix cut background on mobile */
 }
 
 body {
@@ -262,4 +262,8 @@ body {
 @media (min-width: 1000px) {}
 
 /* Larger than Desktop HD */
-@media (min-width: 1200px) {}
+@media (min-width: 1600px) {
+  #icon-bulb {
+    margin-top: 15%;  
+  }
+}

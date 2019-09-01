@@ -34,6 +34,8 @@ Clicking the bulb (💡) will load new quote/text from random category. Refreshi
     v0.5.2: Changed "What To Say" background.
     v0.6: Made it work in Chrome.
     v0.7: Added "Quotes" and "Things Zero Talent". Changed files structure.
+    v0.7.1: Visual fixes.
+    v0.7.2: More tiny fixes.
 
 ## Based on: 
 - https://www.netguru.com/blog/deal-with-it-15-tips-about-what-good-feedback-looks-like
@@ -47,6 +49,9 @@ Clicking the bulb (💡) will load new quote/text from random category. Refreshi
 - https://www.colorhexa.com
 - https://cssgradient.io
 - https://colorhunt.co/palettes
+
+### Icon from:
+- https://www.flaticon.com
 
 ### RWD layout based on: 
 - http://getskeleton.com
