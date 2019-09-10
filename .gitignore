@@ -2,6 +2,7 @@
 _old
 TODO
 releases
+.ds_store
 
 ### VisualStudioCode ###
 .vscode/*
