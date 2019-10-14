@@ -4,4 +4,4 @@ var index = pages[Math.floor(Math.random() * pages.length)];
 
 console.log(index);
 
-window.location.href = index;
+window.location.href = index; // FIX: causing URL to show up in address bar + lack of focus
