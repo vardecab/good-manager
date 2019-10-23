@@ -36,6 +36,8 @@ Clicking the bulb (💡) will load new quote/text from random category. Refreshi
     v0.7: Added "Quotes" and "Things Zero Talent". Changed files structure.
     v0.7.1: Visual fixes.
     v0.7.2: More tiny fixes.
+    v0.7.3: Removed two items from top-left "bookmarks" menu. 
+    v0.7.4: Added a few pages to top-left "bookmarks" menu.
 
 ## Based on: 
 - https://www.netguru.com/blog/deal-with-it-15-tips-about-what-good-feedback-looks-like
