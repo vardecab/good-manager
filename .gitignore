@@ -3,6 +3,7 @@ _old
 TODO
 releases
 .ds_store
+bundle.bat
 
 ### VisualStudioCode ###
 .vscode/*

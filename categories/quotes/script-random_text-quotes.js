@@ -31,7 +31,17 @@ var examples = [
 
     '“Nothing great was ever achieved without enthusiasm.”<br><br><span class="who_said">Bobby Knight</span>',
 
-    '“Make sure that team members know they are working with you, not for you.”<br><br><span class="who_said">John Wooden</span>'
+    '“Make sure that team members know they are working with you, not for you.”<br><br><span class="who_said">John Wooden</span>',
+
+    '"People in good moods are better at inductive reasoning and creative problem solving."',
+
+    '"Every time we allow someone to move us with anger, we teach them to be angry."<br><br><span class="who_said">Barry Neil Kaufman</span>',
+
+    '"Never react emotionally to criticism. Analyze yourself to determine whether it is justified. If it is, correct yourself. Otherwise, go on about your business."<br><br><span class="who_said">Norman Vincent Peale</span>',
+
+    '"The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm."<br><br><span class="who_said">Alous Huxley</span>',
+
+    '"When dealing with people, remember you are not dealing with creatures of logic, but with creatures of emotion."<br><br><span class="who_said">Dale Carnegie</span>'
 
 ];
 
