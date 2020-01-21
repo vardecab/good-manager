@@ -8,7 +8,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   text-align: center;
-  height: 100vh; /* fix cut background on mobile */
+  height: 100vh; /* for previously cut background on mobile */
 }
 
 body {
