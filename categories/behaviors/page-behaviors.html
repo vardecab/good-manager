@@ -1,50 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <title>10 Behaviors That Make a Great Google Manager</title>
 
-<head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>10 Behaviors That Make a Great Google Manager</title>
+        <link rel="icon" type="image/png" href="../../images/icon-bulb.png" />
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../../styles/styles.css" />
 
-    <link rel="icon" type="image/png" href="../../images/icon-bulb.png"/>
+        <script src="script-random_text-behaviors.js"></script>
+        <script src="../../scripts/omnibox_focus.js"></script>
 
-    <link rel="stylesheet" href="styles-behaviors.css">
-    <!-- <link rel="stylesheet" href="normalize.css"> -->
-    
-    <script src="script-random_text-behaviors.js"></script>
-    <script src="../../scripts/omnibox_focus.js"></script>
+        <style>
+            html {
+                background: rgb(249, 224, 144);
+                background: linear-gradient(360deg, rgba(249, 224, 144, 1) 0%, rgba(255, 147, 92, 1) 100%) no-repeat center center fixed;
+                background-size: cover;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                text-align: center;
+                height: 100vh; /* for previously cut background on mobile */
+            }
+        </style>
+    </head>
 
-</head>
-
-<body>
-    <div class="topnav">
+    <body>
+        <!-- <div class="topnav">
         <a href="https://app.hubspot.com/contacts/2092095/deals/list/view/all/?">HubSpot</a>
         <a href="https://docs.google.com/spreadsheets/d/1KqefqXJ16HKjNZkihGs3p7g1mBDZ2lsO_GAXTzsOS00/edit?ts=5dd3e821&pli=1#gid=1868363917">Resourcing</a>
         <a href="https://business.facebook.com/home/accounts?business_id=991948374163688">Facebook Ads</a>
         <a href="https://ladderpl.calamari.io/absence/main.do#/absence/absence/calendar.do">Calamari</a>
         <a href="https://conversionxl.com/institute/roadmap/individual/">CXL</a>
         <a href="https://distilled.zest.is/">Zest</a>
-    </div>
-    
-    <div class="container">
-        <div class="row">
-            <div class="twelve columns" style="margin-top: 7%">
+    </div> -->
 
-                <a href="../../chooser.html"><img src="../../images/icon-bulb.svg" id="icon-bulb"></a>
+        <div class="container">
+            <div class="row">
+                <div class="twelve columns" style="margin-top: 7%;">
+                    <a href="../../chooser.html"><img src="../../images/icon-bulb.svg" id="icon-bulb" /></a>
 
-                <p id="intro">
-                    Good manager:
-                </p>
+                    <p id="intro">
+                        Good manager:
+                    </p>
 
-                <p id="script_output"></p>
-                <script>
-                    document.getElementById('script_output').innerHTML = random_text;
-                </script>
+                    <p id="script_output"></p>
+                    <script>
+                        document.getElementById("script_output").innerHTML = random_text;
+                    </script>
+                </div>
             </div>
         </div>
-    </div>
-</body>
-
+    </body>
 </html>

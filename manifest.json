@@ -3,7 +3,7 @@
   "name": "Good Manager",
   "description": "Good Manager acts as a simple way to motivate you to be a better manager. Currently it randomly shows quotes/phrases from 5 categories: Behaviors, What To Say, Feedback, Quotes, 10 Things That Require 0 Talent. Any time you open a new tab - Good Manager will load.",
   
-  "version": "0.7.5",
+  "version": "0.8",
 
   "icons": {"500": "images/icon-bulb.png"},
 

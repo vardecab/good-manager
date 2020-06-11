@@ -1,6 +1,6 @@
 # Good Manager
 
->**Good Manager** is a new-tab replacement extension for Chromium-based browsers (eg Google Chrome, Brave, [Vivaldi](https://vivaldi.com)) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from 5 categories.
+>**Good Manager** is a new-tab replacement extension for Chromium-based browsers (eg Google Chrome, [Brave](https://brave.com/), [Vivaldi](https://vivaldi.com)) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from 5 categories.
 
 ### Categories
 
@@ -16,7 +16,7 @@
 
 **Good Manager** can be:
 1) [accessed here](https://vardecab.github.io/good-manager/chooser.html) as a normal website or... 
-2) you can download latest `.zip` from [_Releases_](https://github.com/vardecab/good-manager/releases)  (_alternatively, you can pack files from this repo into `.zip` yourself_) and manually add as an extension to Google Chrome or Vivaldi. By doing that, any time you open a new tab - Good Manager will load.
+2) you can download latest `.zip` from [_Releases_](https://github.com/vardecab/good-manager/releases)  (_alternatively, you can pack files from this repo into `.zip` yourself_) and manually add as an extension to your Chromium-based browser. By doing that, any time you open a new tab - Good Manager will load.
 
 ### Magical bulb 💡
 
@@ -24,6 +24,7 @@ Clicking the bulb (💡) will load new quote/text from random category. Refreshi
 
 ## Release History 
  
+- 0.8: Changed font, hid bookmark bar, consolidated `.css` files.
 - 0.7.5: Added a few quotes.
 - 0.7.4: Added a few pages to top-left "bookmarks" menu.
 - 0.7.3: Removed two items from top-left "bookmarks" menu. 
