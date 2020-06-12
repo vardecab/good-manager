@@ -13,6 +13,15 @@
 	--font-color: #252525;
 }
 
+html {
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    height: 100vh; /* for previously cut background on mobile */
+}
+
 body {
     font-family: var(--font);
     color: var(--font-color);
@@ -303,6 +312,6 @@ body {
 /* Larger than Desktop HD */
 @media (min-width: 1600px) {
     #icon-bulb {
-        margin-top: 15%;
+        margin-top: 5%;
     }
 }

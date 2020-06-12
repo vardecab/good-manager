@@ -9,5 +9,5 @@
 
   "chrome_url_overrides": {"newtab": "chooser.html"},
 
-  "content_security_policy": "script-src 'self' 'sha256-kc3i7R6gdw5M5m+yZhaigoX3QAWh1+ktzMo12cDI/Os='; object-src 'self'"
+  "content_security_policy": "script-src 'self' 'sha256-oXuj4KryJ5UnzJXUKB+WOV0kwMaAPVZesuGmGF4fu7w='; object-src 'self'"
 }

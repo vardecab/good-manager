@@ -23,7 +23,8 @@
 Clicking the bulb (💡) will load new quote/text from random category. Refreshing the page (F5/⌘+R) will load a quote/text from the same category you're currently viewing.
 
 ## Release History 
- 
+
+- 0.8.1: Tiny fix for 1600px+ RWD.
 - 0.8: Changed font, hid bookmark bar, consolidated `.css` files.
 - 0.7.5: Added a few quotes.
 - 0.7.4: Added a few pages to top-left "bookmarks" menu.
