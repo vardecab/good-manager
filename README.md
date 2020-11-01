@@ -1,6 +1,6 @@
 # Good Manager
 
->**Good Manager** is a new-tab replacement extension for Chromium-based browsers (eg Google Chrome, [Brave](https://brave.com/), [Vivaldi](https://vivaldi.com)) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from 5 categories.
+>**Good Manager** is a new-tab replacement extension for Chromium-based browsers (eg Google Chrome, [Brave](https://brave.com/), [Vivaldi](https://vivaldi.com)) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from several categories.
 
 ### Categories
 
@@ -8,9 +8,10 @@
 - What To Say,
 - Feedback,
 - Quotes,
-- 10 Things That Require Zero Talent.
+- 10 Things That Require Zero Talent,
+- Working Remotely.
 
-<!-- ![Example](https://i.ibb.co/j6nZV2G/Be-Funky-collage.jpg) -->
+<!-- ![Example]() -->
 
 ## How to use
 
@@ -20,12 +21,15 @@
 
 ### Magical bulb 💡
 
-Clicking the bulb (💡) will load new quote/text from random category. Refreshing the page (F5/⌘+R) will load a quote/text from the same category you're currently viewing.
+Clicking the bulb (💡) will load new quote/text from random category. 
+
+Refreshing the page (F5/⌘+R) will load a quote/text from the same category you're currently viewing.
 
 ## Release History 
 
+- 0.9: Added new category - "Working Remotely". Changed backgrounds, polished code, fixed font. 
 - 0.8.1: Tiny fix for 1600px+ RWD.
-- 0.8: Changed font, hid bookmark bar, consolidated `.css` files.
+- 0.8: Changed font, hid "bookmark" bar, consolidated `.css` files.
 - 0.7.5: Added a few quotes.
 - 0.7.4: Added a few pages to top-left "bookmarks" menu.
 - 0.7.3: Removed two items from top-left "bookmarks" menu. 

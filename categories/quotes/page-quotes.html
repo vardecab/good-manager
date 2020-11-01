@@ -1,43 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>Quotes</title>
 
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<head>
+    <title>Quotes</title>
 
-        <link rel="icon" type="image/png" href="../../images/icon-bulb.png" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <link rel="stylesheet" href="../../styles/styles.css" />
+    <link rel="icon" type="image/png" href="../../images/icon-bulb.png" />
 
-        <script src="script-random_text-quotes.js"></script>
-        <script src="../../scripts/omnibox_focus.js"></script>
+	<link rel="stylesheet" href="../../styles/styles.css" />
 
-        <style>
-            html {
-                background: rgb(79, 129, 199);
-                background: linear-gradient(360deg, rgba(79, 129, 199, 1) 15%, rgba(100, 196, 237, 1) 75%) no-repeat center center fixed;
-            }
-            #script_output {
-                font-size: 1.7rem;
-                margin-top: 3%;
-                line-height: 2.5rem;
-            }
-        </style>
-    </head>
+	<script src="script-quotes.js"></script>
+	<script src="../../scripts/omnibox_focus.js"></script>
 
-    <body>
-        <div class="container">
-            <div class="row">
-                <div class="twelve columns" style="margin-top: 7%;">
-                    <a href="../../chooser.html"><img src="../../images/icon-bulb.svg" id="icon-bulb" /></a>
+    <style>
+        html {
+            background: rgb(0, 191, 255);
+            background: linear-gradient(180deg, rgba(0, 191, 255, 1) 0%, rgba(196, 240, 255, 1) 80%) no-repeat center center fixed;
+        }
 
-                    <p id="script_output"></p>
-                    <script>
-                        document.getElementById("script_output").innerHTML = random_text;
-                    </script>
-                </div>
+        #script_output {
+            font-size: 1.7rem;
+            margin-top: 3%;
+            line-height: 2.5rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="twelve columns" style="margin-top: 7%;">
+                <a href="../../chooser.html"><img src="../../images/icon-bulb.svg" id="icon-bulb" /></a>
+
+                <p id="script_output"></p>
+ 
             </div>
         </div>
-    </body>
+    </div>
+</body>
+
 </html>
