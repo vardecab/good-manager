@@ -11,7 +11,10 @@
 - 10 Things That Require Zero Talent,
 - Working Remotely.
 
-<!-- ![Example]() -->
+## Screenshot
+
+![Screenshot1](https://raw.githubusercontent.com/vardecab/good-manager/master/images/screensho1.png)
+![Screenshot2](https://raw.githubusercontent.com/vardecab/good-manager/master/images/screenshot2.png)
 
 ## How to use
 
