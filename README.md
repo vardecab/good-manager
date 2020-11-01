@@ -13,8 +13,8 @@
 
 ## Screenshot
 
-![Screenshot1](https://raw.githubusercontent.com/vardecab/good-manager/master/images/screensho1.png)
-![Screenshot2](https://raw.githubusercontent.com/vardecab/good-manager/master/images/screenshot2.png)
+![Screenshot2](https://raw.githubusercontent.com/vardecab/good-manager/master/images/Screenshot2.png)
+![Screenshot1](https://raw.githubusercontent.com/vardecab/good-manager/master/images/Screenshot1.png)
 
 ## How to use
 
