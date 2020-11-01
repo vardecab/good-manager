@@ -30,6 +30,7 @@ Refreshing the page (F5/⌘+R) will load a quote/text from the same category you
 
 ## Release History 
 
+- 0.9.2: Added title to the icon.
 - 0.9.1: Added bold variant of Arvo font.
 - 0.9: Added new category - "Working Remotely". Changed backgrounds, polished code, fixed font. 
 - 0.8.1: Tiny fix for 1600px+ RWD.
