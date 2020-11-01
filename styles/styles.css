@@ -4,15 +4,23 @@
     /* Arvo → https://fonts.google.com/specimen/Arvo */
     font-family: "Arvo";
     src: url("../../fonts/arvo/Arvo-Regular.ttf");
+    font-weight: normal;
+    font-style: normal;
 }
 
-/* * NOTE: add `bold` */
+@font-face {
+    /* Arvo → https://fonts.google.com/specimen/Arvo */
+    font-family: "Arvo";
+    src: url("../../fonts/arvo/Arvo-Bold.ttf");
+    font-weight: bold;
+    font-style: normal;
+}
 
 /* === palette === */
 
 :root {
     --font: "Arvo", monospace;
-	--font-color: #565656;
+	--font-color: #161616;
 }
 
 /* === main styling === */
@@ -71,7 +79,7 @@ body {
 
 #script_output {
     font-size: 2rem;
-    /* font-weight: bold; */
+    font-weight: bold;
     /* line-height: 1.2 !important; */
     margin: auto;
     margin-bottom: 5%;
