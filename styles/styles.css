@@ -6,6 +6,8 @@
     src: url("../../fonts/arvo/Arvo-Regular.ttf");
 }
 
+/* * NOTE: add `bold` */
+
 /* === palette === */
 
 :root {
@@ -69,7 +71,7 @@ body {
 
 #script_output {
     font-size: 2rem;
-    font-weight: bold;
+    /* font-weight: bold; */
     /* line-height: 1.2 !important; */
     margin: auto;
     margin-bottom: 5%;
