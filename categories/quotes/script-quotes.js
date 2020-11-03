@@ -41,6 +41,8 @@ var text = [
 
     '"The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm."<br><br><span class="who_said">Alous Huxley</span>',
 
+    '"Priority management is the answer to maximizing the time we have."<br><br><span class="who_said">John C Maxwell</span>',
+
     '"When dealing with people, remember you are not dealing with creatures of logic, but with creatures of emotion."<br><br><span class="who_said">Dale Carnegie</span>'
 
 ];

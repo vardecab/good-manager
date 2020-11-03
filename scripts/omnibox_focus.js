@@ -1,3 +1,5 @@
+// TODO: most likely no longer works; test & remove in next version
+ 
 function init() {
     var k = 9;
 
