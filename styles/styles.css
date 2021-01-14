@@ -370,3 +370,9 @@ body {
         margin-top: 10% !important;
 	}
 }
+
+@media (min-width: 1600px) and (min-height: 840px) { /* works with bookmarks bar and visible dock bar on macOS */ 
+	#icon-bulb {
+        margin-top: 7% !important;
+	}
+}
