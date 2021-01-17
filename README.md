@@ -30,6 +30,7 @@ Refreshing the page (F5/⌘+R) will load a quote/text from the same category you
 
 ## Release History 
 
+- 0.9.6: Added new quote.
 - 0.9.5: Small fix for RWD when dock bar is visible on macOS.
 - 0.9.4: Small fixes for RWD when Bookmarks Bar is enabled in browser's settings.
 - 0.9.3: Added new quote.

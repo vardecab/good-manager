@@ -43,7 +43,9 @@ var text = [
 
     '"Priority management is the answer to maximizing the time we have."<br><br><span class="who_said">John C Maxwell</span>',
 
-    '"When dealing with people, remember you are not dealing with creatures of logic, but with creatures of emotion."<br><br><span class="who_said">Dale Carnegie</span>'
+    '"When dealing with people, remember you are not dealing with creatures of logic, but with creatures of emotion."<br><br><span class="who_said">Dale Carnegie</span>',
+
+    '“First-rate managers hire first-rate people and turn them loose. Second-rate managers hire third-rate people who have to be told what to do and how to do it.”'
 
 ];
 
