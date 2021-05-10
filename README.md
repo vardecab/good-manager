@@ -1,5 +1,7 @@
 # Good Manager
 
+![](https://img.shields.io/badge/browser-Chromium-blue)
+
 >**Good Manager** is a new-tab replacement extension for Chromium-based browsers (eg Google Chrome, [Brave](https://brave.com/), [Vivaldi](https://vivaldi.com)) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from several categories.
 
 ### Categories
@@ -61,7 +63,8 @@ Using [SemVer](http://semver.org/).
 
 ## License
 
-GNU General Public License v3.0, see [LICENSE.md](https://github.com/vardecab/good-manager/blob/master/LICENSE).
+![](https://img.shields.io/github/license/vardecab/good-manager)
+<!-- GNU General Public License v3.0, see [LICENSE.md](https://github.com/vardecab/good-manager/blob/master/LICENSE). -->
 
 ## Acknowledgements
 
@@ -80,3 +83,9 @@ GNU General Public License v3.0, see [LICENSE.md](https://github.com/vardecab/go
 - RWD layout based on: http://getskeleton.com
 - Navbar tutorial: https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 - Full background cover tutorial: https://css-tricks.com/perfect-full-page-background-image
+
+## Contributing
+
+![](https://img.shields.io/github/issues/vardecab/good-manager)
+
+If you found a bug or want to propose a feature, feel free to visit [the Issues page](https://github.com/vardecab/good-manager/issues).
