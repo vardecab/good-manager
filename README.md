@@ -1,5 +1,7 @@
 # Good Manager
 
+![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)
+<br>
 ![](https://img.shields.io/badge/browser-Chromium-blue)
 
 >**Good Manager** is a new-tab replacement extension for Chromium-based browsers (eg Google Chrome, [Brave](https://brave.com/), [Vivaldi](https://vivaldi.com)) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from several categories.
